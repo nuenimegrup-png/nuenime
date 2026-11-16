@@ -1,0 +1,6 @@
+{
+  "name": "Nuenime — Unduh & Auto-Update APK",
+  "description": "Landing page resmi dan pengunduh otomatis rilis APK terbaru Nuenime oleh Nueva Group.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
